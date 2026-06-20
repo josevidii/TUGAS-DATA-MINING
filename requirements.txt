@@ -1,0 +1,8 @@
+streamlit
+torch
+torchaudio
+torchvision
+librosa
+numpy
+opencv-python-headless
+soundfile
